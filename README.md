@@ -1,6 +1,6 @@
 ### Hi there, i'm Achref BOULARESS👋
 [![Linkedin: achref-boularess](https://img.shields.io/badge/achref-boularess-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achref-boularess)](https://www.linkedin.com/in/achref-boularess/)
-[![GitHub eyanani](https://img.shields.io/github/followers/eya-98?label=follow&style=social)](https://github.com/eya-98)
+[![GitHub achrefbs](https://img.shields.io/github/followers/achrefbs?label=follow&style=social)](https://github.com/achrefbs)
 - 💁‍♀️ I'm graduate in full stack web development from @Holberton school in september 2021
 - 🔭 I’m currently focusing on Flutter projects both mobile and android applications
 - 🌱 I'm a former teacher assistant and software developer at @campusna 
