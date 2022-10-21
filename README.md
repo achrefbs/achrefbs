@@ -35,7 +35,6 @@
 ### Technologies and Tool ⚙️ 🖥
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ### Design tools ⚙️ 🖥
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
